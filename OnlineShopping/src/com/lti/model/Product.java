@@ -8,6 +8,8 @@ public class Product {
 	String name="Sarit";
 	int gold=0;
 	String result="good";
+	int game;
+	String football="round";
 	public int getProductId() {
 		return productId;
 	}
