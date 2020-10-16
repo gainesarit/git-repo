@@ -4,7 +4,8 @@ public class Product {
     int productId;
     String ProductName;
     String productDescrption;
-	int id; 
+	int id;
+	String name="Sarit";
 	public int getProductId() {
 		return productId;
 	}
