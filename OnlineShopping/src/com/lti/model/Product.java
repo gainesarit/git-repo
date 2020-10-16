@@ -6,6 +6,8 @@ public class Product {
     String productDescrption;
 	int id;
 	String name="Sarit";
+	int gold=0;
+	String result="good";
 	int game;
 	String football="round";
 	public int getProductId() {
