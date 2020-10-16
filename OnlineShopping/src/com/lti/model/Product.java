@@ -4,6 +4,7 @@ public class Product {
     int productId;
     String ProductName;
     String productDescrption;
+	int id; 
 	public int getProductId() {
 		return productId;
 	}
